@@ -1,0 +1,23 @@
+{
+  "name": "todo-to-issue",
+  "version": "1.0.0",
+  "description": "Convert your todo comments into issues",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimkholodilo/todo-to-issue.git"
+  },
+  "keywords": [
+    "Github",
+    "issues"
+  ],
+  "author": "Vadim Kholodilo <vadimkholodilo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vadimkholodilo/todo-to-issue/issues"
+  },
+  "homepage": "https://github.com/vadimkholodilo/todo-to-issue#readme"
+}
